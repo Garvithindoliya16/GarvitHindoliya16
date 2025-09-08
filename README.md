@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvithindoliya16&label=Profile%20views&color=0e75b6&style=flat" alt="garvithindoliya16" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://garvithindoliya16.github.io/My-portfolio/](https://garvithindoliya16.github.io/My-portfolio/)
+- 👨‍💻 All of my projects are available at [https://garvithindoliya16.github.io/My-portfolio/](https://portfolio-nine-mu-u8uy2q1njh.vercel.app/)
 
 - 💬 Ask me about **Machine Learning, NLP, Deep Learning, DSA**
 
